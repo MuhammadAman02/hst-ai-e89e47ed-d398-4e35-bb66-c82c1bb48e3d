@@ -1,2 +1,4 @@
-# This file makes this directory a Python package.
-# It's intended for core configuration, settings, error handling, and logging.
+"""
+ML Engineer Portfolio - Core Package Initialization
+"""
+# This file makes the core directory a Python package
